@@ -62,8 +62,6 @@ The selected playing 11 lineup is capable of:
 
 - **Power BI Dashboard Link:** Access our interactive Power BI dashboard to explore player statistics and the final playing 11 lineup: [Dashboard Link](https://your-dashboard-link-here.com)
 
-- **Interactive Power BI Dashboard:** Explore the working of our Power BI dashboard directly on GitHub: [Interactive Dashboard](/dashboard_embed_link_here)
-
 ## Conclusion
 
 Our Unbeatable Playing 11 Data Analysis Project for the T20 World Cup 2023 demonstrates the power of data analysis and visualization in shaping strategic decisions. By leveraging advanced tools and techniques, we've curated an exceptional lineup that optimizes player strengths and enhances the team's chances of victory. Feel free to explore our dashboard and delve into the world of data-driven cricket analysis!
