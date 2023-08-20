@@ -7,29 +7,6 @@
 
 
 
-
-https://github.com/Himanshgit5458/T20-Wc-Dashboard/assets/96855684/f6cce72c-d178-4114-9c2a-3d67df1823d8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Unbeatable Playing 11 Data Analysis Project for T20 World Cup 2022
 
 Welcome to the Unbeatable Playing 11 Data Analysis Project for the T20 World Cup 2023! In this project, we've employed advanced data analysis techniques to determine the best playing 11 lineup for the tournament using Power BI. Our analysis is based on real-time data collected from ESPN Cricinfo and processed using cutting-edge tools and methodologies.
