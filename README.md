@@ -41,8 +41,8 @@ Our final Power BI dashboard presents a visually engaging and insightful overvie
 
   ![Openers Criteria](/images/openers.png)
   ![Anchors Criteria](/images/Anchors.png)
-  ![Finisher Criteria](/images/finisher.png)
-  ![All-Rounders Criteria](/images/Allrounders.png)
+  ![Finisher Criteria](/images/Finisher.png)
+  ![All-Rounders Criteria](/images/Allrounder.png)
   ![Fast Bowlers Criteria](/images/Bowlers.png)
 
 - **Power BI Dashboard Link:** Access our interactive Power BI dashboard to explore player statistics and the final playing 11 lineup: [Dashboard Link](https://your-dashboard-link-here.com)
