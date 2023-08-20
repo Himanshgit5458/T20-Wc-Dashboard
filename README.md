@@ -39,11 +39,11 @@ Our final Power BI dashboard presents a visually engaging and insightful overvie
 
 - **Parameters Criteria Images:** Below are images representing the criteria for each player category:
 
-  ![Openers Criteria](/images/openers_criteria.png)
-  ![Anchors Criteria](/images/anchors_criteria.png)
-  ![Finisher Criteria](/images/finisher_criteria.png)
-  ![All-Rounders Criteria](/images/allrounders_criteria.png)
-  ![Fast Bowlers Criteria](/images/fastbowlers_criteria.png)
+  ![Openers Criteria](/images/openers.png)
+  ![Anchors Criteria](/images/Anchors.png)
+  ![Finisher Criteria](/images/finisher.png)
+  ![All-Rounders Criteria](/images/All rounders.png)
+  ![Fast Bowlers Criteria](/images/Bowlers.png)
 
 - **Power BI Dashboard Link:** Access our interactive Power BI dashboard to explore player statistics and the final playing 11 lineup: [Dashboard Link](https://your-dashboard-link-here.com)
 
