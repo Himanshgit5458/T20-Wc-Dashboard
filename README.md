@@ -1,3 +1,6 @@
+Certainly! Here's the updated script with the additional information you provided:
+
+```markdown
 # Unbeatable Playing 11 Data Analysis Project for T20 World Cup 2022
 
 Welcome to the Unbeatable Playing 11 Data Analysis Project for the T20 World Cup 2023! In this project, we've employed advanced data analysis techniques to determine the best playing 11 lineup for the tournament using Power BI. Our analysis is based on real-time data collected from ESPN Cricinfo and processed using cutting-edge tools and methodologies.
@@ -35,6 +38,12 @@ With a comprehensive dataset in hand, we brainstormed and designed an intuitive 
 
 Our final Power BI dashboard presents a visually engaging and insightful overview of the T20 World Cup 2023. It highlights the selected playing 11 lineup and provides deep insights into player performance, strengths, and areas of expertise.
 
+## Playing 11 Criteria
+
+The selected playing 11 lineup is capable of:
+- Scoring a minimum of 180 runs at any wicket.
+- Defending a target of 150 runs at any wicket.
+
 ## Project Artifacts
 
 - **Parameters Criteria Images:** Below are images representing the criteria for each player category:
@@ -47,10 +56,13 @@ Our final Power BI dashboard presents a visually engaging and insightful overvie
 
 - **Power BI Dashboard Link:** Access our interactive Power BI dashboard to explore player statistics and the final playing 11 lineup: [Dashboard Link](https://your-dashboard-link-here.com)
 
-- **Dashboard Demonstration Video:** Watch a brief video showcasing the functionality and working of our Power BI dashboard: [Video Link](https://your-video-link-here.com)
+- **Interactive Power BI Dashboard:** Explore the working of our Power BI dashboard directly on GitHub: [Interactive Dashboard](/dashboard_embed_link_here)
 
 ## Conclusion
 
-Our Unbeatable Playing 11 Data Analysis Project for the T20 World Cup 2023 demonstrates the power of data analysis and visualization in shaping strategic decisions. By leveraging advanced tools and techniques, we've curated an exceptional lineup that optimizes player strengths and enhances the team's chances of victory. Feel free to explore our dashboard, watch the demonstration video, and delve into the world of data-driven cricket analysis!
+Our Unbeatable Playing 11 Data Analysis Project for the T20 World Cup 2023 demonstrates the power of data analysis and visualization in shaping strategic decisions. By leveraging advanced tools and techniques, we've curated an exceptional lineup that optimizes player strengths and enhances the team's chances of victory. Feel free to explore our dashboard and delve into the world of data-driven cricket analysis!
 
 For any inquiries or collaborations, please contact us at Himansh302000@gmail.com.
+```
+
+Replace `/images/openers.png`, `/images/Anchors.png`, etc. with the actual paths to your images. Also, replace `https://your-dashboard-link-here.com` with the actual link to your Power BI dashboard and replace `/dashboard_embed_link_here` with the actual link to the embedded interactive Power BI dashboard on GitHub.
