@@ -53,4 +53,4 @@ Our final Power BI dashboard presents a visually engaging and insightful overvie
 
 Our Unbeatable Playing 11 Data Analysis Project for the T20 World Cup 2023 demonstrates the power of data analysis and visualization in shaping strategic decisions. By leveraging advanced tools and techniques, we've curated an exceptional lineup that optimizes player strengths and enhances the team's chances of victory. Feel free to explore our dashboard, watch the demonstration video, and delve into the world of data-driven cricket analysis!
 
-For any inquiries or collaborations, please contact us at projectteam@example.com.
+For any inquiries or collaborations, please contact us at Himansh302000@gmail.com.
